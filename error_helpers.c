@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "main.h"
 
 /**
  * command_error - prints error message when command is not found

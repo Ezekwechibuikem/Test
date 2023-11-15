@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "main.h"
 
 /**
  * fork_wait_exec - executes commands by first forking a child process

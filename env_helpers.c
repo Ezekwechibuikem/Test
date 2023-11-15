@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "main.h"
 
 /**
  * get_path_count - counts number of directories in PATH

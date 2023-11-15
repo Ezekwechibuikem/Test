@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "main.h"
 
 /**
  * exit_check - checks if user input is "exit" and, if so, exits the shell
