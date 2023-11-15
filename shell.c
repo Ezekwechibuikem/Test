@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "main.h"
 
 int exitcode = 0;
 int errorcount = 0;
