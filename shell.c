@@ -38,7 +38,7 @@ int main(__attribute__((unused)) int argc, char **argv, char **env)
 	{
 		errorcount++;
 		if (atty_is)
-			write(STDOUT_FILENO, "Evar-Bona_shell$ ", 13);
+			write(STDOUT_FILENO, "EVAR-BONA$ ", 11);
 		bytes_read = getline(&user_input, &nbytes, stdin);
 		if (bytes_read == -1)
 		{
